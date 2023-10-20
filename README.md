@@ -1,4 +1,8 @@
-### Hi there 👋
+# Приветствую!👋 Александр, Python developer👨‍💻
+С 2022 года занимаюсь backend-разработкой на Python.
+
+## Основные инструменты
+#Python #Django #DjangoRESTFramework #Bootstrap #PyTelegramBotAPI #SQL #PostgreSQL #Nginx #Gunicorn #Pytest #Git #Linux #Docker #Postman #HTML #VSCode #Github🧙‍♂️
 
 <!--
 **AxeUnder/AxeUnder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
