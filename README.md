@@ -1,5 +1,5 @@
-# Приветствую!👋 Александр, Python developer👨‍💻
-С 2022 года занимаюсь backend-разработкой на Python.
+# Приветствую!👋 Александр👨‍💻
+С 2022 года занимаюсь изучением Python.
 
 ## Основные инструменты
 #Python #Django #DjangoRESTFramework #Bootstrap #PyTelegramBotAPI #SQL #PostgreSQL #Nginx #Gunicorn #Pytest #Git #Linux #Docker #Postman #HTML #VSCode #Github🧙‍♂️
